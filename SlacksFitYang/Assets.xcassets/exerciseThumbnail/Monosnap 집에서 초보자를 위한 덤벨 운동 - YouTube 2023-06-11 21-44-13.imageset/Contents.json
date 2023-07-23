@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Monosnap 집에서 초보자를 위한 덤벨 운동 - YouTube 2023-06-11 21-44-13.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

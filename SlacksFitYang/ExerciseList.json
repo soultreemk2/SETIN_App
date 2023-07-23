@@ -1,0 +1,342 @@
+{
+    "exerciseList": [{
+        "name": "브릿지(Bridge)",
+        "type": "onlyCounting",
+        "youTubeID": "d7IRDv8cvYw",
+        "hashTag1": "하체",
+        "hashTag2": "복부",
+        "image": "Bridge",
+        "guide": "50"
+    }, {
+        "name": "Donkey Kicks",
+        "type": "onlyCounting",
+        "youTubeID": "2XlhJlPOcPU",
+        "hashTag1": "하체",
+        "hashTag2": "복부",
+        "image": "Donkey_Kicks",
+        "guide": "50"
+    }, {
+        "name": "스쿼트(Squat)",
+        "type": "onlyCounting",
+        "youTubeID": "jFjgWYIB_4Y",
+        "hashTag1": "엉덩이",
+        "hashTag2": "허벅지",
+        "image": "Squat",
+        "guide": "100"
+    }, {
+        "name": "레그 레이시스(Leg Raises)",
+        "type": "onlyCounting",
+        "youTubeID": "I3a9I2GGvx8",
+        "hashTag1": "하체",
+        "hashTag2": "복부",
+        "image": "Leg_Raises",
+        "guide": "30"
+    }, {
+        "name": "리버스 런지(Reverse Lunges)",
+        "type": "onlyCounting",
+        "youTubeID": "xrts0odDIJ4",
+        "hashTag1": "하체",
+        "hashTag2": "복부",
+        "image": "Reverse_Lunges",
+        "guide": "50"
+    }, {
+        "name": "파이어 하이드런트(Fire Hydrant)",
+        "type": "onlyCounting",
+        "youTubeID": "_vuwBnday18",
+        "hashTag1": "하체",
+        "hashTag2": "엉덩이",
+        "image": "Fire_Hydrant",
+        "guide": "50"
+    }, {
+        "name": "스타 점프(Star Jump)",
+        "type": "onlyCounting",
+        "youTubeID": "tMY2X6Eq09s",
+        "hashTag1": "하체",
+        "hashTag2": "복부",
+        "image": "Star_Jump",
+        "guide": "50"
+    }, {
+        "name": "플랭크 잭(Plank Jacks)",
+        "type": "onlyCounting",
+        "youTubeID": "C8BBhPnjTHo",
+        "hashTag1": "하체",
+        "hashTag2": "복부",
+        "image": "Plank_Jacks",
+        "guide": "100"
+    }, {
+        "name": "스쿼드 잭(Squat Jacks)",
+        "type": "onlyCounting",
+        "youTubeID": "WjHkNu1hRyc",
+        "hashTag1": "하체",
+        "hashTag2": "복부",
+        "image": "Squat_Jacks",
+        "guide": "50"
+    }, {
+        "name": "니 푸쉬업(Knee Push Ups)",
+        "type": "onlyCounting",
+        "youTubeID": "1DQ88KfKUy8",
+        "hashTag1": "상체",
+        "hashTag2": "복부",
+        "image": "Knee_Push_Ups",
+        "guide": "50"
+    }, {
+        "name": "Up Up Down Downs",
+        "type": "onlyCounting",
+        "youTubeID": "Zd6kSQHevls",
+        "hashTag1": "상체",
+        "hashTag2": "복부",
+        "image": "UpUp_Downs",
+        "guide": "30"
+    }, {
+        "name": "Knee Hugs",
+        "youTubeID": "6O5DoBKjmLs",
+        "type": "onlyCounting",
+        "hashTag1": "하체",
+        "hashTag2": "복부",
+        "image": "Knee_Hugs",
+        "guide": "100"
+    }, {
+        "name": "삼두근 딥 (Tricep Dips)",
+        "type": "onlyCounting",
+        "youTubeID": "d7IRDv8cvYw",
+        "hashTag1": "상체",
+        "hashTag2": "삼두근",
+        "image": "Tricep_Dips",
+        "guide": "50"
+    }, {
+        "name": "사이드 벤즈(Side Bends)",
+        "type": "onlyCounting",
+        "youTubeID": "YrBSeWwL2dw",
+        "startTime": "5.0",
+        "endTime": "40",
+        "hashTag1": "하체",
+        "hashTag2": "복부",
+        "image": "Side_Bends",
+        "guide": "14"
+    }, {
+        "name": "백 턴(Back Turns)",
+        "type": "onlyCounting",
+        "youTubeID": "YrBSeWwL2dw",
+        "startTime": "45.0",
+        "endTime": "78",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "Back_Turns",
+        "guide": "14"
+    }, {
+        "name": "슈퍼 맨(Super Mans)",
+        "type": "onlyCounting",
+        "youTubeID": "YrBSeWwL2dw",
+        "startTime": "80.0",
+        "endTime": "113",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "Super_Mans",
+        "guide": "12"
+     }, {
+        "name": "스노우 엔젤(Snow Angels)",
+        "type": "onlyCounting",
+        "youTubeID": "YrBSeWwL2dw",
+        "startTime": "140.0",
+        "endTime": "165",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "Snow_Angels",
+        "guide": "12"
+     }, {
+        "name": "점핑 잭(Jumping Jacks)",
+        "type": "onlyCounting",
+        "youTubeID": "YrBSeWwL2dw",
+        "startTime": "290.0",
+        "endTime": "325",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "Jumpling_Jacks",
+        "guide": "30"
+     }, {
+        "name": "Bird Dog",
+        "type": "onlyCounting",
+        "youTubeID": "YrBSeWwL2dw",
+        "startTime": "360.0",
+        "endTime": "390",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "Bird_Dogs",
+        "guide": "6"
+     }, {
+        "name": "힐 터치(Heel Touch)",
+        "type": "onlyCounting",
+        "youTubeID": "YrBSeWwL2dw",
+        "startTime": "690.0",
+        "endTime": "717",
+        "hashTag1": "복부",
+        "hashTag2": "하체",
+        "image": "Heel_Touch",
+        "guide": "20"
+     }, {
+        "name": "러시안 트위스트(Russian Twist)",
+        "type": "onlyCounting",
+        "youTubeID": "YrBSeWwL2dw",
+        "startTime": "740.0",
+        "endTime": "770",
+        "hashTag1": "복부",
+        "hashTag2": "하체",
+        "image": "Russian_Twist",
+        "guide": "16"
+     }, {
+        "name": "뛰면서 비틀기(jumping oblique twist)",
+        "type": "onlyCounting",
+        "youTubeID": "YrBSeWwL2dw",
+        "startTime": "850.0",
+        "endTime": "875",
+        "hashTag1": "복부",
+        "hashTag2": "하체",
+        "image": "Jumpling_Twist",
+        "guide": "20"
+     }, {
+        "name": "스윙 백(Swing Back)",
+        "type": "onlyCounting",
+        "youTubeID": "6bAIZ7rfjvY",
+        "startTime": "5.0",
+        "endTime": "50",
+        "hashTag1": "등",
+        "hashTag2": "복부",
+        "image": "Swing_Back",
+        "guide": "20"
+    }, {
+        "name": "HAMMER CURL",
+        "type": "setCounting",
+        "youTubeID": "3-LugL0XqV8",
+        "startTime": "1.0",
+        "endTime": "33",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "HAMMER_CURL"
+    }, {
+        "name": "HAMMER CURL",
+        "type": "setCounting",
+        "youTubeID": "3-LugL0XqV8",
+        "startTime": "1.0",
+        "endTime": "33",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "HAMMER_CURL"
+    }, {
+        "name": "해머 컬(HAMMER CURL) ",
+        "type": "setCounting",
+        "youTubeID": "3-LugL0XqV8",
+        "startTime": "1.0",
+        "endTime": "33",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "HAMMER_CURL"
+    }, {
+        "name": "킥 백(KICK BACK)",
+        "type": "setCounting",
+        "youTubeID": "3-LugL0XqV8",
+        "startTime": "42.0",
+        "endTime": "78",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "KICK_BACK"
+    }, {
+        "name": "벤트 오버 로우(Bent Over Row)",
+        "type": "setCounting",
+        "youTubeID": "3-LugL0XqV8",
+        "startTime": "84.0",
+        "endTime": "120",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "Bent_Over_Row"
+    }, {
+        "name": "업라이트 로우(Upright Row)",
+        "type": "setCounting",
+        "youTubeID": "3-LugL0XqV8",
+        "startTime": "126.0",
+        "endTime": "160",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "Upright_Row"
+    }, {
+        "name": "덤벨 슈러그(Dumbbell Shrug)",
+        "type": "setCounting",
+        "youTubeID": "3-LugL0XqV8",
+        "startTime": "170.0",
+        "endTime": "203",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "Dumbbell_Shrug"
+    }, {
+        "name": "루마니아 데드리프트",
+        "type": "setCounting",
+        "youTubeID": "3-LugL0XqV8",
+        "startTime": "252.0",
+        "endTime": "288",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "Romanian"
+    }, {
+        "name": "삼두근 확장(Tricep Extension)",
+        "type": "setCounting",
+        "youTubeID": "3-LugL0XqV8",
+        "startTime": "295.0",
+        "endTime": "330",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "Tricep_Extension"
+    }, {
+        "name": "얼터네이트 숄더 프레스",
+        "type": "setCounting",
+        "youTubeID": "3-LugL0XqV8",
+        "startTime": "338.0",
+        "endTime": "373",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "Alternate"
+    }, {
+        "name": "바 그립 스모 스쿼트",
+        "type": "setCounting",
+        "youTubeID": "3-LugL0XqV8",
+        "startTime": "380.0",
+        "endTime": "415",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "Bar_Grip"
+    }, {
+        "name": "덤벨 바이셉스 컬",
+        "type": "setCounting",
+        "youTubeID": "Nkg0zdW6_7s",
+        "startTime": "0.0",
+        "endTime": "45",
+        "hashTag1": "상체",
+        "hashTag2": "어깨",
+        "image": "Byceps_Curl"
+    }, {
+        "name": "덤벨 스쿼트",
+        "type": "setCounting",
+        "youTubeID": "Nkg0zdW6_7s",
+        "startTime": "115.0",
+        "endTime": "160",
+        "hashTag1": "하체",
+        "hashTag2": "허벅지",
+        "image": "Dumbbell_Squat"
+    }, {
+        "name": "리버스 그립 로우",
+        "type": "setCounting",
+        "youTubeID": "Nkg0zdW6_7s",
+        "startTime": "170.0",
+        "endTime": "215",
+        "hashTag1": "상체",
+        "hashTag2": "등",
+        "image": "Reverse_Grip_Row"
+    }, {
+        "name": "핑거 컬",
+        "type": "setCounting",
+        "youTubeID": "Nkg0zdW6_7s",
+        "startTime": "517.0",
+        "endTime": "563",
+        "hashTag1": "상체",
+        "hashTag2": "팔",
+        "image": "Finger_Curl"
+    }]
+}

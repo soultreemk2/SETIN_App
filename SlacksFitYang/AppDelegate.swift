@@ -6,31 +6,43 @@
 //
 
 import UIKit
+import FirebaseCore
+import GoogleSignIn
+import AuthenticationServices
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        
+        FirebaseApp.configure()
+        
+        GIDSignIn.sharedInstance()?.clientID = "34704401787-vd5mbuj532vh7uq2pjg986g1khoh4ifa.apps.googleusercontent.com"
+        
+        // apple ID 인증상태 조회
+        let appleIDProvider = ASAuthorizationAppleIDProvider()
+        let appleUserIdentifier = UserDefaults.standard.object(forKey: "appleLoginUserID") as? String ?? "" // apple login을 한번이라도 성공했으면 userDefault에 저장됨
+        
+        appleIDProvider.getCredentialState(forUserID: appleUserIdentifier) { (credentialState, error) in
+            switch credentialState {
+            case .authorized:
+                //인증성공 상태
+                print("apple login authorized")
+            case .revoked:
+                //인증만료 상태
+                print("apple login revoked")
+            default:
+                //.notFound 등 이외 상태
+                print("apple login error:", error?.localizedDescription)
+            }
+        }
+        
         return true
     }
-
-    // MARK: UISceneSession Lifecycle
-
-    func application(_ application: UIApplication, configurationForConnecting connectingSceneSession: UISceneSession, options: UIScene.ConnectionOptions) -> UISceneConfiguration {
-        // Called when a new scene session is being created.
-        // Use this method to select a configuration to create the new scene with.
-        return UISceneConfiguration(name: "Default Configuration", sessionRole: connectingSceneSession.role)
+    
+    func application(_ app: UIApplication, open url: URL, options: [UIApplication.OpenURLOptionsKey : Any] = [:]) -> Bool {
+        return GIDSignIn.sharedInstance().handle( url )
     }
-
-    func application(_ application: UIApplication, didDiscardSceneSessions sceneSessions: Set<UISceneSession>) {
-        // Called when the user discards a scene session.
-        // If any sessions were discarded while the application was not running, this will be called shortly after application:didFinishLaunchingWithOptions.
-        // Use this method to release any resources that were specific to the discarded scenes, as they will not return.
-    }
-
 
 }
 
